@@ -1,0 +1,12 @@
+C:\Users\gelli\Desktop\IT Stuff, Books, Cheatsheets\Visual Basic\Data files\Zak Visual Basic Data Files 9781337102124\MORTGAGE CALCULATOR\obj\Debug\MORTGAGE_CALCULATOR.FORM1.resources
+C:\Users\gelli\Desktop\IT Stuff, Books, Cheatsheets\Visual Basic\Data files\Zak Visual Basic Data Files 9781337102124\MORTGAGE CALCULATOR\obj\Debug\MORTGAGE_CALCULATOR.Resources.resources
+C:\Users\gelli\Desktop\IT Stuff, Books, Cheatsheets\Visual Basic\Data files\Zak Visual Basic Data Files 9781337102124\MORTGAGE CALCULATOR\obj\Debug\MORTGAGE CALCULATOR.vbproj.GenerateResource.cache
+C:\Users\gelli\Desktop\IT Stuff, Books, Cheatsheets\Visual Basic\Data files\Zak Visual Basic Data Files 9781337102124\MORTGAGE CALCULATOR\obj\Debug\MORTGAGE CALCULATOR.vbproj.CoreCompileInputs.cache
+C:\Users\gelli\Desktop\IT Stuff, Books, Cheatsheets\Visual Basic\Data files\Zak Visual Basic Data Files 9781337102124\MORTGAGE CALCULATOR\bin\Debug\MORTGAGE CALCULATOR.exe.config
+C:\Users\gelli\Desktop\IT Stuff, Books, Cheatsheets\Visual Basic\Data files\Zak Visual Basic Data Files 9781337102124\MORTGAGE CALCULATOR\bin\Debug\MORTGAGE CALCULATOR.exe
+C:\Users\gelli\Desktop\IT Stuff, Books, Cheatsheets\Visual Basic\Data files\Zak Visual Basic Data Files 9781337102124\MORTGAGE CALCULATOR\bin\Debug\MORTGAGE CALCULATOR.pdb
+C:\Users\gelli\Desktop\IT Stuff, Books, Cheatsheets\Visual Basic\Data files\Zak Visual Basic Data Files 9781337102124\MORTGAGE CALCULATOR\bin\Debug\MORTGAGE CALCULATOR.xml
+C:\Users\gelli\Desktop\IT Stuff, Books, Cheatsheets\Visual Basic\Data files\Zak Visual Basic Data Files 9781337102124\MORTGAGE CALCULATOR\obj\Debug\MORTGAGE CALCULATOR.vbprojAssemblyReference.cache
+C:\Users\gelli\Desktop\IT Stuff, Books, Cheatsheets\Visual Basic\Data files\Zak Visual Basic Data Files 9781337102124\MORTGAGE CALCULATOR\obj\Debug\MORTGAGE CALCULATOR.exe
+C:\Users\gelli\Desktop\IT Stuff, Books, Cheatsheets\Visual Basic\Data files\Zak Visual Basic Data Files 9781337102124\MORTGAGE CALCULATOR\obj\Debug\MORTGAGE CALCULATOR.xml
+C:\Users\gelli\Desktop\IT Stuff, Books, Cheatsheets\Visual Basic\Data files\Zak Visual Basic Data Files 9781337102124\MORTGAGE CALCULATOR\obj\Debug\MORTGAGE CALCULATOR.pdb
